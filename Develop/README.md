@@ -1,6 +1,6 @@
 # 01 HTML CSS Git: Code Refactor
 
-
+For week 1's homework we were tasked to refactor existing CSS and HTML code. I have edited the HTML index file to use tags that follow proper semantic structure. I replaced several DIV tags with more descriptive header, nav, and footer tags. I also restructured the CSS stylesheet to no longer have redundant classes. For added accessibility I have added alt tags with descriptions for all images. I have also added comments to both the HTML and CSS files. 
 
 ## User Story
 
